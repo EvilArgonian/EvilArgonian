@@ -1,5 +1,6 @@
-Perrin Mele (or @EvilArgonian)
-Pursuing a Master of Science in Bioinformatics
+Perrin Mele (or @EvilArgonian) 
+
+Pursuing a Master of Science in Bioinformatics; 
 Bachelor of Science in Computer Science
 
 This is a personal GitHub, including both personal projects and classwork.
