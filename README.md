@@ -1,7 +1,7 @@
 Perrin Mele (or @EvilArgonian) 
 
-Pursuing a Master of Science in Bioinformatics; 
-Bachelor of Science in Computer Science
+Master of Science in Bioinformatics
+Bachelor of Science in Computer Science (Minor in Biology)
 
 This is a personal GitHub, including both personal projects and classwork.
 
